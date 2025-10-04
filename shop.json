@@ -1,0 +1,20 @@
+{
+    "coins": 3054,
+    "owned_skins": [
+        "default",
+        "skin1",
+        "skin5",
+        "skin4",
+        "skin3",
+        "skin2"
+    ],
+    "owned_locations": [
+        "default",
+        "rainbow",
+        "candy",
+        "night",
+        "sunset"
+    ],
+    "current_skin": "skin2",
+    "current_location": "sunset"
+}
